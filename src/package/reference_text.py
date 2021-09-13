@@ -8,6 +8,9 @@ def read_text_from_user():
     return len(sample_text)
 
 
+# TODO  integrate flask app to read from UI
+
+
 def clean_inp_text():
     sentences = sample_text.split(".")
     raw_words = sample_text.split(" ")
