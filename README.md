@@ -15,7 +15,9 @@ The project is to clone the auto-suggest functionality provided by popular keybo
 1. We provide a paragraph.
 
 2. System will assign weightage to words based on the order.
-   Example, sample text = "My name is John. My hobby is running. My hobby is what I like to do daily."
+   Example,
+
+   > sample text = "My name is John. My hobby is running. My hobby is what I like to do daily."
 
 | Word | followed by - 1 | followed by - 2 | followed by - 3 |
 | ---- | --------------- | --------------- | --------------- |
